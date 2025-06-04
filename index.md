@@ -3,10 +3,15 @@ layout: default
 title: Willkommen
 ---
 
-# Ferienhaus Schulz
+[Start](./index.md) | [Anreise](./anreise.md) | [Abreise](./abreise.md) | [Unternehmen](./unternehmen.md)
 
-Willkommen auf unserer Seite!
 
-![Unser Haus](./assets/img/haus.jpg)
+# Willkommen im Ferienhaus Schulz
 
-Kontakt: mueller@example.com
+Hier finden Sie alle wichtigen Informationen:
+
+- [Anreise](./anreise.md)
+- [Abreise](./abreise.md)
+- [Freizeitaktivitäten](./unternehmen.md)
+
+![Haus](./assets/img/haus.jpg)
