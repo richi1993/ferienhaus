@@ -86,26 +86,24 @@ Wir freuen uns, **Sie bald als unsere Gäste begrüßen** zu dürfen!
 📩 Kontaktieren Sie uns gerne für weitere Informationen, Verfügbarkeiten und Buchungen.
 
 ---
-
 ## 📸 Bildergalerie
 
 Hier ein paar Eindrücke unserer Ferienwohnung und der Umgebung:
 
-<table>
-  <tr>
-    <td><img src="assets/img/haus.jpg" width="250"/></td>
-    <td><img src="assets/img/haus1.jpeg" width="250"/></td>
-    <td><img src="assets/img/haus2.jpeg" width="250"/></td>
-    <td><img src="assets/img/haus3.jpeg" width="250"/></td>
-    <td><img src="assets/img/haus4.jpeg" width="250"/></td>
-    <td><img src="assets/img/haus5.jpeg" width="250"/></td>
-    <td><img src="assets/img/haus6.jpeg" width="250"/></td>
-    <td><img src="assets/img/haus7.jpeg" width="250"/></td>
+![Außenansicht unseres Ferienhauses](assets/img/haus.jpg)
 
-  </tr>
-  <tr>
-    <td><img src="assets/img/strand1.jpeg" width="250"/></td>
+![Innenansicht](assets/img/haus1.jpeg)
 
-  </tr>
-</table>
+![Wohnbereich](assets/img/haus2.jpeg)
 
+![Küchenbereich](assets/img/haus3.jpeg)
+
+![Schlafzimmer](assets/img/haus4.jpeg)
+
+![Badezimmer](assets/img/haus5.jpeg)
+
+![Garten](assets/img/haus6.jpeg)
+
+![Terrasse](assets/img/haus7.jpeg)
+
+![Der wunderschöne Strand in der Nähe](assets/img/strand1.jpeg)
